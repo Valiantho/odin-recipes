@@ -1,1 +1,1 @@
-# odin-recipes
+# odin-recipes on this project i will be working with the basic knowlege of html i have gathered so far from the odin project. testing my ability to use some basic html tags like h tags img tags a tags p tags ul tags ol tags and my understanding of git and git-hub.
